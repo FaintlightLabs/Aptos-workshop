@@ -15,3 +15,4 @@
     - 这个模版选择更多，有纯基础模版，有 NFT+launchpad 模版，有 FT+launchpad 模版
     - 基于 npx，可以直接使用，不需要下载
     - 大家可以把这个模版当成工具箱，从里面拿自己需要的模块，比如怎么操作 NFT，怎么操作 FT，怎么操作 launchpad 等等
+- Youtube视频：https://www.youtube.com/watch?v=uAfK1Lpr33M
